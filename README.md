@@ -1,2 +1,2 @@
 # JustGLuaThings
-Just random lua functions I've created to handle random things.
+Just random Garry's Mod lua functions I've created to handle random things.
