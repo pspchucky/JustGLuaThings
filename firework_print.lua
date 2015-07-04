@@ -1,3 +1,7 @@
+/*
+    FireworkPrint( string )
+    http://i.imgur.com/tLUCk4Q.jpg
+*/
 function FireworkPrint( txt )
     local murica = {Color(255,0,0), Color(255,255,255), Color(0,0,255)} //awh yeah 🎆
     local letters = string.Explode( "", txt )
