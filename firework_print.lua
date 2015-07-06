@@ -5,7 +5,7 @@
 function FireworkPrint( txt )
     local murica = {Color(255,0,0), Color(255,255,255), Color(0,0,255)} //awh yeah 🎆
     local letters = string.Explode( "", txt )
-    local ColorIndx = 1 //Fuckin lua
+    local ColorIndx = 1 //Lua's 1 indexing makes us have to compensate later near 24 to 27
     
 escape_character = { //Only worry about characters that add blank spacing
   [" "] = function (x) Msg(" ") end,
